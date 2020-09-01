@@ -1,9 +1,11 @@
 # Housing_Prices
 
-###About
+### About
+
 Housing Prices prediction Machine Learning algorithm for Kaggle Competition
 
 Machine Learning example that uses XGBoost to predict housing prices in Iowa, USA.
 
-###Performance
+### Performance
+
 The mean absolute error is 14794.29$
