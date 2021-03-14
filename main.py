@@ -40,7 +40,7 @@ X_train, X_valid = X_train.align(X_valid, join='left', axis=1)
 X_train, X_test = X_train.align(X_test, join='left', axis=1)
 
 
-my_model_2 = XGBRegressor(n_estimators=1000, learning_rate=0.05, n_jobs=8)
+my_model_2 = XGBRegressor(n_estimators=325, learning_rate=0.05, n_jobs=8)
 
 # Fit the model
 my_model_2.fit(X_train, y_train
