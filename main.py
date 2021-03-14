@@ -1,4 +1,4 @@
-#mean absolute error of 14794.29$
+#mean absolute error of 14751.04$
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
